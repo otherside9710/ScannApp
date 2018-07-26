@@ -1,4 +1,4 @@
-# csharp-scanner-wia
+# ScannApp
 This repository contains a really simple scanner application that implements WIA (Windows Image Acquisition).
 
 # How to use
@@ -6,7 +6,7 @@ This repository contains a really simple scanner application that implements WIA
 Simply clone the repository:
 
 ```batch
-git clone https://github.com/ourcodeworld/csharp-scanner-wia.git
+git clone https://github.com/otherside9710/ScannApp.git
 ```
 
 And then open the project with Visual Studio and start the application. Enjoy it !
@@ -19,5 +19,3 @@ And then open the project with Visual Studio and start the application. Enjoy it
     <img src="https://cdn.rawgit.com/ourcodeworld/csharp-scanner-wia/34bb7694/Screenshots/scanning-progress.png?raw=true" title="Scanning progress">
 </p>
 
-
-[Read the official article in Our Code World here](http://ourcodeworld.com/articles/read/382/creating-a-scanning-application-in-winforms-with-csharp).
